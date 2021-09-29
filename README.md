@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I´m Karol Mendes 👋
 
 - 🔭 I’m currently studing ADS
 - 🌱 I’m currently learning Java
